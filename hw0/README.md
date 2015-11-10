@@ -90,3 +90,6 @@ var rects = bars_enter.append("rect")
 
  * What does this snippet do? How is it different than the previous one?
  * What do the variables `bars`, `bars_enter` and `rects` contain?
+
+Name: Elham Mirshekari
+Email: e.mirshekari@gmail.com
